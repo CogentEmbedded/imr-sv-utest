@@ -1,6 +1,6 @@
 # IMR surround view utest application
 
-Demo application demonstrates surround view with pre-defined viewpoints on Renesas Wheat board.
+Demo application demonstrates surround view with pre-defined viewpoints on Renesas boards.
 
 ## Build
 Project uses cmake tool to build an application.
