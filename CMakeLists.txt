@@ -143,7 +143,7 @@ target_link_libraries(imr-wl
 )
 set_target_properties(imr-wl PROPERTIES SKIP_BUILD_RPATH ON)
 
-if (SV_TARGET_PLATFORM STREQUAL GEN3)
+if (IMR_TARGET_PLATFORM STREQUAL GEN3)
     add_definitions(
     -D__VSPM_GEN3
     )
